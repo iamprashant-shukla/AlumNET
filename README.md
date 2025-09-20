@@ -11,7 +11,7 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.0+-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://netlify.com/)
 
-[🚀 Live Demo](https://your-alumnnet-demo.netlify.app) • [📊 Presentation](https://your-presentation-link.com) • [🎥 Video Demo](https://your-video-link.com)
+[🚀 Live Demo](https://alumnett.netlify.app/) • [📊 Presentation](#) • [🎥 Video Demo](#)
 
 </div>
 
@@ -72,16 +72,13 @@
 - **Vite** - Lightning-fast build tool
 - **Tailwind CSS** - Utility-first styling
 - **Lucide React** - Beautiful icons
-- **React Router v6** - Client-side routing
 
 ### **State Management & Data**
-- **React Hooks** - Local state management
 - **Context API** - Global state sharing
 - **LocalStorage** - Client-side persistence
 - **Mock APIs** - Realistic data simulation
 
 ### **Development Tools**
-- **ESLint** - Code quality assurance
 - **Prettier** - Code formatting
 - **Git** - Version control
 - **VS Code** - Development environment
@@ -91,7 +88,4 @@
 - **GitHub Actions** - CI/CD pipeline
 - **Custom Domain** - Professional URL
 
----
-
-## 🏗️ Project Structure
 
